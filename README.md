@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chethmiywd" alt="chethmiywd" /></a> </p>
 
-- 🔭 I’m currently working on **web development projects**
+- 🔭 I’m currently working on **a virtual-try-on web application**
 
-- 🌱 I’m currently learning **OOP**
+- 🌱 I’m currently learning **Client-Server Architectures**
 
 - 🤝 I’m an undergraduate at **University of Westminster**
 
